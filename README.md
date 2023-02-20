@@ -15,11 +15,11 @@
 
 <br>
 
-![Form Wave Animation]()
+![Form Wave Animation](images/form-wave-animation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Form-Wave-Animation/)
 
 <br>
 
